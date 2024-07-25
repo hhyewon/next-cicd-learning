@@ -19,7 +19,7 @@ $ git push origin main
 
       
 ## 🔽 CI/CD Pipeline
-<img src="https://github.com/user-attachments/assets/e6103651-1b6f-4411-8265-757d50618c40" />
+<img src="https://github.com/user-attachments/assets/c3b5f900-bd3a-457f-a68c-9d34a0334669" />
 
 
 ## 🔽 Link
