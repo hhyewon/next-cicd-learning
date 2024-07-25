@@ -1,5 +1,5 @@
 ### 🔽 CI/CD 파이프라인
-![제목 없는 다이어그램 (1)](https://github.com/user-attachments/assets/5f07e1ce-ee80-4a27-81c7-10e1353fcef6)
+![cicd](https://hyewons-bucket.s3.ap-northeast-2.amazonaws.com/%EC%A0%9C%EB%AA%A9+%EC%97%86%EB%8A%94+%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8+(1).jpg)
 
 ### 🔽 주요 링크
 - S3 버킷 웹사이트 엔드포인트: http://hyewons-bucket.s3-website.ap-northeast-2.amazonaws.com
