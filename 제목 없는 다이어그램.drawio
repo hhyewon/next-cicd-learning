@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.7.4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" version="24.7.4">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
-    <mxGraphModel dx="3560" dy="2745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2377" dy="1308" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12,9 +12,6 @@
         </mxCell>
         <mxCell id="C6XlPYrIIHPJKQmVjB9T-28" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20style%3D%22edgeStyle%3Dnone%3Bcurved%3D1%3Brounded%3D0%3BorthogonalLoop%3D1%3BjettySize%3Dauto%3Bhtml%3D1%3BfontSize%3D12%3BstartSize%3D8%3BendSize%3D8%3BstrokeWidth%3D3%3BentryX%3D0%3BentryY%3D0.5%3BentryDx%3D0%3BentryDy%3D0%3BexitX%3D0.922%3BexitY%3D0.55%3BexitDx%3D0%3BexitDy%3D0%3BexitPerimeter%3D0%3B%22%20edge%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%221347.25%22%20y%3D%22297.29%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%221437.25%22%20y%3D%22297.29000000000025%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EAEDED;fontSize=22;fontColor=#FFFFFF;strokeColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="150" y="400" width="307" height="320" as="geometry" />
-        </mxCell>
-        <mxCell id="SCVMTBWpLvtzJIhz15lM-1" value="" style="line;strokeWidth=2;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="52.5" y="139.5" width="1060" height="10" as="geometry" />
         </mxCell>
         <mxCell id="C6XlPYrIIHPJKQmVjB9T-11" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1970" y="108.5" width="103.75000000000011" height="141.5" as="geometry" />
@@ -61,8 +58,8 @@
         <mxCell id="C6XlPYrIIHPJKQmVjB9T-30" value="Deployment Guide" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=24;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="52.5" y="68.5" width="283" height="61.5" as="geometry" />
         </mxCell>
-        <mxCell id="C6XlPYrIIHPJKQmVjB9T-31" value="Prerequisites" style="text;whiteSpace=wrap;align=left;fontSize=15;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="217" y="420" width="140" height="40" as="geometry" />
+        <mxCell id="C6XlPYrIIHPJKQmVjB9T-31" value="Checkout branch" style="text;whiteSpace=wrap;align=left;fontSize=15;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="217" y="420" width="173" height="40" as="geometry" />
         </mxCell>
         <mxCell id="C6XlPYrIIHPJKQmVjB9T-33" value="2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="167" y="480" width="40" height="38" as="geometry" />
@@ -142,23 +139,17 @@
         <mxCell id="C6XlPYrIIHPJKQmVjB9T-101" value="AWS_ACCESS_KEY_ID&lt;div style=&quot;font-size: 15px;&quot;&gt;AWS_SECRET_ACCESS_KEY&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;AWS_REGION&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=15;verticalAlign=middle;align=center;" parent="C6XlPYrIIHPJKQmVjB9T-104" vertex="1">
           <mxGeometry y="64.5" width="430" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="yOQPRZohoX6ZdM-xcphL-1" value="&lt;h2 class=&quot;Box-sc-g0xbh4-0 dNjgcs TableTitle&quot; id=&quot;repository-secrets&quot; style=&quot;box-sizing: border-box; margin: 0px; font-size: 14px; font-weight: 600; color: rgb(31, 35, 40); line-height: calc(1.42857); grid-area: title; align-self: center; font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span class=&quot;Text-sc-17v1xeu-0 ixasUU&quot; style=&quot;box-sizing: border-box; font-size: 16px; font-weight: 600;&quot;&gt;Repository secrets&lt;/span&gt;&lt;/h2&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="C6XlPYrIIHPJKQmVjB9T-104">
+        <mxCell id="yOQPRZohoX6ZdM-xcphL-1" value="&lt;h2 class=&quot;Box-sc-g0xbh4-0 dNjgcs TableTitle&quot; id=&quot;repository-secrets&quot; style=&quot;box-sizing: border-box; margin: 0px; font-size: 14px; font-weight: 600; color: rgb(31, 35, 40); line-height: calc(1.42857); grid-area: title; align-self: center; font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span class=&quot;Text-sc-17v1xeu-0 ixasUU&quot; style=&quot;box-sizing: border-box; font-size: 16px; font-weight: 600;&quot;&gt;Repository secrets&lt;/span&gt;&lt;/h2&gt;" style="text;whiteSpace=wrap;html=1;" parent="C6XlPYrIIHPJKQmVjB9T-104" vertex="1">
           <mxGeometry x="148" y="-4" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="C6XlPYrIIHPJKQmVjB9T-105" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;strokeWidth=3;exitX=0.922;exitY=0.55;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1160" y="521" as="sourcePoint" />
-            <mxPoint x="1160" y="621" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="C6XlPYrIIHPJKQmVjB9T-106" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EAEDED;fontSize=22;fontColor=#FFFFFF;strokeColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1017" y="630" width="268" height="60" as="geometry" />
+          <mxGeometry x="1023" y="630" width="268" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C6XlPYrIIHPJKQmVjB9T-107" value="Deploy Failed" style="text;whiteSpace=wrap;verticalAlign=middle;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="1085" y="640" width="200" height="40" as="geometry" />
+          <mxGeometry x="1091" y="640" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="C6XlPYrIIHPJKQmVjB9T-108" value="&lt;font color=&quot;#ffffff&quot;&gt;X&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF3333;strokeColor=none;fontStyle=1;fontSize=22;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1029" y="640" width="40" height="38" as="geometry" />
+          <mxGeometry x="1035" y="640" width="40" height="38" as="geometry" />
         </mxCell>
         <mxCell id="C6XlPYrIIHPJKQmVjB9T-109" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;strokeWidth=3;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.983;exitY=0.525;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="C6XlPYrIIHPJKQmVjB9T-102" target="C6XlPYrIIHPJKQmVjB9T-114" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -186,7 +177,7 @@
         <mxCell id="C6XlPYrIIHPJKQmVjB9T-119" value="S3_BUCKET_NAME&amp;nbsp;" style="text;whiteSpace=wrap;html=1;fontSize=15;verticalAlign=middle;align=center;" parent="C6XlPYrIIHPJKQmVjB9T-117" vertex="1">
           <mxGeometry y="64.5" width="430" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="yOQPRZohoX6ZdM-xcphL-2" value="&lt;h2 class=&quot;Box-sc-g0xbh4-0 dNjgcs TableTitle&quot; id=&quot;repository-secrets&quot; style=&quot;box-sizing: border-box; margin: 0px; font-size: 14px; font-weight: 600; color: rgb(31, 35, 40); line-height: calc(1.42857); grid-area: title; align-self: center; font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span class=&quot;Text-sc-17v1xeu-0 ixasUU&quot; style=&quot;box-sizing: border-box; font-size: 16px; font-weight: 600;&quot;&gt;Repository secrets&lt;/span&gt;&lt;/h2&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="C6XlPYrIIHPJKQmVjB9T-117">
+        <mxCell id="yOQPRZohoX6ZdM-xcphL-2" value="&lt;h2 class=&quot;Box-sc-g0xbh4-0 dNjgcs TableTitle&quot; id=&quot;repository-secrets&quot; style=&quot;box-sizing: border-box; margin: 0px; font-size: 14px; font-weight: 600; color: rgb(31, 35, 40); line-height: calc(1.42857); grid-area: title; align-self: center; font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span class=&quot;Text-sc-17v1xeu-0 ixasUU&quot; style=&quot;box-sizing: border-box; font-size: 16px; font-weight: 600;&quot;&gt;Repository secrets&lt;/span&gt;&lt;/h2&gt;" style="text;whiteSpace=wrap;html=1;" parent="C6XlPYrIIHPJKQmVjB9T-117" vertex="1">
           <mxGeometry x="146" y="-4" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="C6XlPYrIIHPJKQmVjB9T-120" value="0" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EAEDED;fontSize=22;fontColor=#FFFFFF;strokeColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
@@ -210,13 +201,52 @@
         <mxCell id="C6XlPYrIIHPJKQmVjB9T-128" value="CLOUDFRONT_DISTRIBUTION_ID" style="text;whiteSpace=wrap;html=1;fontSize=15;verticalAlign=middle;align=center;" parent="C6XlPYrIIHPJKQmVjB9T-126" vertex="1">
           <mxGeometry y="64.5" width="430" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="yOQPRZohoX6ZdM-xcphL-3" value="&lt;h2 class=&quot;Box-sc-g0xbh4-0 dNjgcs TableTitle&quot; id=&quot;repository-secrets&quot; style=&quot;box-sizing: border-box; margin: 0px; font-size: 14px; font-weight: 600; color: rgb(31, 35, 40); line-height: calc(1.42857); grid-area: title; align-self: center; font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span class=&quot;Text-sc-17v1xeu-0 ixasUU&quot; style=&quot;box-sizing: border-box; font-size: 16px; font-weight: 600;&quot;&gt;Repository secrets&lt;/span&gt;&lt;/h2&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="C6XlPYrIIHPJKQmVjB9T-126">
+        <mxCell id="yOQPRZohoX6ZdM-xcphL-3" value="&lt;h2 class=&quot;Box-sc-g0xbh4-0 dNjgcs TableTitle&quot; id=&quot;repository-secrets&quot; style=&quot;box-sizing: border-box; margin: 0px; font-size: 14px; font-weight: 600; color: rgb(31, 35, 40); line-height: calc(1.42857); grid-area: title; align-self: center; font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span class=&quot;Text-sc-17v1xeu-0 ixasUU&quot; style=&quot;box-sizing: border-box; font-size: 16px; font-weight: 600;&quot;&gt;Repository secrets&lt;/span&gt;&lt;/h2&gt;" style="text;whiteSpace=wrap;html=1;" parent="C6XlPYrIIHPJKQmVjB9T-126" vertex="1">
           <mxGeometry x="147" y="-4" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="C6XlPYrIIHPJKQmVjB9T-129" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;strokeWidth=3;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.922;exitY=0.55;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="C6XlPYrIIHPJKQmVjB9T-120" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1706.25" y="298.29" as="sourcePoint" />
             <mxPoint x="1796.25" y="298.29000000000025" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zX_OLi3PFMARCnxHpk8p-2" value="main" style="text;whiteSpace=wrap;fontSize=15;verticalAlign=middle;fontColor=#828282;" vertex="1" parent="1">
+          <mxGeometry x="341" y="420" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zX_OLi3PFMARCnxHpk8p-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EAEDED;fontSize=22;fontColor=#FFFFFF;strokeColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1442.25" y="630" width="268" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zX_OLi3PFMARCnxHpk8p-9" value="Deploy Failed" style="text;whiteSpace=wrap;verticalAlign=middle;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1510.25" y="640" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zX_OLi3PFMARCnxHpk8p-10" value="&lt;font color=&quot;#ffffff&quot;&gt;X&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF3333;strokeColor=none;fontStyle=1;fontSize=22;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1454.25" y="640" width="40" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="zX_OLi3PFMARCnxHpk8p-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EAEDED;fontSize=22;fontColor=#FFFFFF;strokeColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1891.37" y="629" width="268" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zX_OLi3PFMARCnxHpk8p-17" value="Deploy Failed" style="text;whiteSpace=wrap;verticalAlign=middle;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1959.37" y="639" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zX_OLi3PFMARCnxHpk8p-18" value="&lt;font color=&quot;#ffffff&quot;&gt;X&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF3333;strokeColor=none;fontStyle=1;fontSize=22;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1903.37" y="639" width="40" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="zX_OLi3PFMARCnxHpk8p-19" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="C6XlPYrIIHPJKQmVjB9T-106" target="C6XlPYrIIHPJKQmVjB9T-100">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1279" y="598" as="sourcePoint" />
+            <mxPoint x="1169" y="538" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zX_OLi3PFMARCnxHpk8p-21" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="zX_OLi3PFMARCnxHpk8p-8" target="C6XlPYrIIHPJKQmVjB9T-118">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1210" y="460" as="sourcePoint" />
+            <mxPoint x="1260" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zX_OLi3PFMARCnxHpk8p-22" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zX_OLi3PFMARCnxHpk8p-16" target="C6XlPYrIIHPJKQmVjB9T-127">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1586" y="640" as="sourcePoint" />
+            <mxPoint x="2030" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
