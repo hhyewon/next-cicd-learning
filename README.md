@@ -1,8 +1,3 @@
-## 🔽 Overview 
-<img src="https://github.com/user-attachments/assets/975b2e28-81fc-499e-88f8-1b283e6b15aa" width="400" height="300" />
-
----
-
 ## 🔽 Deployment Guide 
 > Step 1: Set up AWS Resources
 1. Create an `S3 bucket` for your static files
@@ -22,13 +17,15 @@ $ git push origin main
 ```
 > Step 4: GitHub Actions Workflow CI/CD
 
----
       
-## 🔽 CI/CD 파이프라인
+## 🔽 CI/CD Pipeline
 <img src="https://github.com/user-attachments/assets/e6103651-1b6f-4411-8265-757d50618c40" />
 
 
----
-## 🔽 주요 링크
-- S3 버킷 웹사이트 엔드포인트: http://hyewons-bucket.s3-website.ap-northeast-2.amazonaws.com
-- CloudFrount 배포 도메인 이름: https://d149xzr8qgtyxl.cloudfront.net
+## 🔽 Link
+- S3 end-point: http://hyewons-bucket.s3-website.ap-northeast-2.amazonaws.com
+- CloudFrount: https://d149xzr8qgtyxl.cloudfront.net
+
+## 🔽 Static Website 
+<img src="https://github.com/user-attachments/assets/975b2e28-81fc-499e-88f8-1b283e6b15aa" width="400" height="300" />
+
